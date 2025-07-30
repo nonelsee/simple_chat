@@ -1,0 +1,37 @@
+[
+  {
+    "username": "user1",
+    "passwordHash": "e10adc3949ba59abbe56e057f20f883e",
+    "friends": ["user2", "user3"],
+    "accessToken": null,
+    "accessTokenExpiry": null
+  },
+  {
+    "username": "user2",
+    "passwordHash": "e10adc3949ba59abbe56e057f20f883e",
+    "friends": ["user1", "user4"],
+    "accessToken": null,
+    "accessTokenExpiry": null
+  },
+  {
+    "username": "user3",
+    "passwordHash": "e10adc3949ba59abbe56e057f20f883e",
+    "friends": ["user1", "user5"],
+    "accessToken": null,
+    "accessTokenExpiry": null
+  },
+  {
+    "username": "user4",
+    "passwordHash": "e10adc3949ba59abbe56e057f20f883e",
+    "friends": ["user2"],
+    "accessToken": null,
+    "accessTokenExpiry": null
+  },
+  {
+    "username": "user5",
+    "passwordHash": "e10adc3949ba59abbe56e057f20f883e",
+    "friends": ["user3"],
+    "accessToken": null,
+    "accessTokenExpiry": null
+  }
+]
